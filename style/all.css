@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('assets/Roboto.ttf');
+}
+/* 
+@font-face {
+    font-family: 'Robotobold';
+    src: url('assets/Robotobold.ttf');
+} */
+
+.container {
+    font-family: 'Roboto', sans-serif;
+}
+
+.element:hover {
+    background-color: #e4326ae5;
+    border-radius: 5px;
+}
+
+.avatar{
+    display: flex;
+    justify-content: end;
+}
+footer {
+    margin-top: 5%;
+}

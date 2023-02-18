@@ -1,0 +1,17 @@
+
+#jazz {
+    margin-top: 10%;
+}
+
+.cards {   
+    padding: 4% 1% 4% 1%;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.card:hover {
+    background-color:#e4326ae5;
+    color: white;
+}

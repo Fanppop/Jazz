@@ -1,0 +1,18 @@
+
+main {
+    margin-top: 3%;
+}
+
+.list-group-item:hover {
+    box-sizing:content-box;
+    background-color:#e4326ae5;;
+    color: white;
+}
+.element-heart:hover {
+    background-color: #e4326ae5;;
+    border-radius: 5px;
+}
+
+footer {
+    margin-top: 20%;
+}
